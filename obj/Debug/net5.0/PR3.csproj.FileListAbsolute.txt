@@ -1,0 +1,16 @@
+C:\Users\x_sky\Desktop\PR3\bin\Debug\net5.0\PR3.exe
+C:\Users\x_sky\Desktop\PR3\bin\Debug\net5.0\PR3.deps.json
+C:\Users\x_sky\Desktop\PR3\bin\Debug\net5.0\PR3.runtimeconfig.json
+C:\Users\x_sky\Desktop\PR3\bin\Debug\net5.0\PR3.runtimeconfig.dev.json
+C:\Users\x_sky\Desktop\PR3\bin\Debug\net5.0\PR3.dll
+C:\Users\x_sky\Desktop\PR3\bin\Debug\net5.0\ref\PR3.dll
+C:\Users\x_sky\Desktop\PR3\bin\Debug\net5.0\PR3.pdb
+C:\Users\x_sky\Desktop\PR3\obj\Debug\net5.0\PR3.csproj.AssemblyReference.cache
+C:\Users\x_sky\Desktop\PR3\obj\Debug\net5.0\PR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x_sky\Desktop\PR3\obj\Debug\net5.0\PR3.AssemblyInfoInputs.cache
+C:\Users\x_sky\Desktop\PR3\obj\Debug\net5.0\PR3.AssemblyInfo.cs
+C:\Users\x_sky\Desktop\PR3\obj\Debug\net5.0\PR3.csproj.CoreCompileInputs.cache
+C:\Users\x_sky\Desktop\PR3\obj\Debug\net5.0\PR3.dll
+C:\Users\x_sky\Desktop\PR3\obj\Debug\net5.0\ref\PR3.dll
+C:\Users\x_sky\Desktop\PR3\obj\Debug\net5.0\PR3.pdb
+C:\Users\x_sky\Desktop\PR3\obj\Debug\net5.0\PR3.genruntimeconfig.cache
